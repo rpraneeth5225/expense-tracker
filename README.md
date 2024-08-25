@@ -28,4 +28,4 @@ Follow these steps to run the Expense Tracker on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   [git clone https://github.com/your-username/expense-tracker.git]
